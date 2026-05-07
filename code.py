@@ -55,7 +55,7 @@ def ver_cuentas():
         print("---user---")
         print(f"id: {dato['id']}\nNombre: {dato['nombre']}")
         print(f"Saldo: {dato['saldo']}")
-        print("---------")
+        print("----Historial----")
         if not dato['historial']:
             print("No ha habido movimientos")
         else:
