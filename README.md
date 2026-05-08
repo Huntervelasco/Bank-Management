@@ -41,4 +41,10 @@ python3 code.py
 ```bash
 cd Bank-Management/
 git pull
+```
+
+
+## Example
+<img width="296" height="169" alt="image" src="https://github.com/user-attachments/assets/e59dbba1-58cf-4e54-a2a1-9abdf6109f3e" />
+
 
