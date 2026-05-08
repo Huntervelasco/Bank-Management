@@ -382,7 +382,7 @@ while True:
         continue
     try:
         option_main = int(option_main)
-        if option_main < 1 or option_main > 7:
+        if option_main < 1 or option_main > 8:
             print("Respuesta invalida")
             continue
     except ValueError:
