@@ -26,9 +26,19 @@ All data is saved automatically using a JSON database file.
 
 ---
 
-## Installation / Clone
+
+
+## Installation / Clone /
 
 ```bash
 git clone https://github.com/Huntervelasco/Bank-Management
 cd Bank-Management
 python3 code.py
+
+```
+
+## Update the code
+```bash
+cd Bank-Management/
+git pull
+
